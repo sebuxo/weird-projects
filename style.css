@@ -1,0 +1,17 @@
+
+.choices{
+    position: relative;
+    list-style-type :none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    left: -20px;
+}
+
+
+.Botona{
+    position: relative;
+    text-align: center;
+    margin-top: 450px;
+}
+
